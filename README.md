@@ -1,1 +1,2 @@
 # YetGen.py
+print("SDASDASDASDASD")
