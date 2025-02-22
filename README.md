@@ -1,2 +1,1 @@
-# YetGen.py
-print("SDASDASDASDASD")
+
